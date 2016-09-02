@@ -12,7 +12,6 @@ args = parser.parse_args()
 
 username = args.username
 
-# username = "akanksharedhu"
 base_url = "https://www.instagram.com/"
 pages = 0
 maxlikes = maxComments = -1
